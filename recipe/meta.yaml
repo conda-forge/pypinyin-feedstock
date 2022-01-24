@@ -27,6 +27,9 @@ requirements:
 test:
   imports:
     - pypinyin
+    - pypinyin.contrib
+    - pypinyin.seg
+    - pypinyin.style
   commands:
     - pip check
   requires:
