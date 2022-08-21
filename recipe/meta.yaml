@@ -1,5 +1,5 @@
 {% set name = "pypinyin" %}
-{% set version = "0.47.0" %}
+{% set version = "0.47.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pypinyin-{{ version }}.tar.gz
-  sha256: 021d50bad961bf6807881b156c38a17fe4e83bedf9c506e97c1dc1be58678ee0
+  sha256: 4244eec898294fd099c02d59faf8e89106d83d74e1c04a7af59094664d89636b
 
 build:
   noarch: python
