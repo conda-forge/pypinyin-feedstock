@@ -1,11 +1,11 @@
-About pypinyin
-==============
+About pypinyin-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pypinyin-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mozillazg/python-pinyin
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pypinyin-feedstock/blob/main/LICENSE.txt)
 
 Summary: Converts Chinese idiograms to Pinyin romanization.
 
